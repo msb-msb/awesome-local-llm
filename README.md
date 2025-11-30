@@ -227,6 +227,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 ### Retrieval-Augmented Generation
 
+- <img src="https://img.shields.io/github/stars/pathwaycom/pathway?style=social" height="17" align="texttop"/> [pathway](https://github.com/pathwaycom/pathway) - Python ETL framework for stream processing, real-time analytics, LLM pipelines and RAG
 - <img src="https://img.shields.io/github/stars/microsoft/graphrag?style=social" height="17" align="texttop"/> [graphrag](https://github.com/microsoft/graphrag) - a modular graph-based RAG system
 - <img src="https://img.shields.io/github/stars/HKUDS/LightRAG?style=social" height="17" align="texttop"/> [LightRAG](https://github.com/HKUDS/LightRAG) - simple and fast RAG
 - <img src="https://img.shields.io/github/stars/deepset-ai/haystack?style=social" height="17" align="texttop"/> [haystack](https://github.com/deepset-ai/haystack) - AI orchestration framework to build customizable, production-ready LLM applications, best suited for building RAG, question answering, semantic search or conversational agent chatbots
