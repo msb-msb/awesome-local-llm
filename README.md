@@ -114,7 +114,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Ministral 3](https://huggingface.co/collections/mistralai/ministral-3) - a collection of edge models, with base, instruct and reasoning variants, in 3 different sizes: 3B, 8B and 14B, all with vision capabilities
 - [GLM-4.5](https://huggingface.co/collections/zai-org/glm-45-687c621d34bda8c9e4bf503b) - a collection of hybrid reasoning models designed for intelligent agents
 - [Hunyuan](https://huggingface.co/collections/tencent/hunyuan-dense-model-6890632cda26b19119c9c5e7) - a collection of Tencent's open-source efficient LLMs designed for versatile deployment across diverse computational environments
-- [Phi-4-mini-instruct](https://huggingface.co/microsoft/Phi-4-mini-instruct) - a lightweight open model built upon synthetic data and filtered publicly available websites
+- [Phi-4](https://huggingface.co/collections/microsoft/phi-4) - a family of small language, multi-modal and reasoning models from Microsoft
 - [NVIDIA Nemotron v3](https://huggingface.co/collections/nvidia/nvidia-nemotron-v3) - a family of open models from NVIDIA with open weights, training data and recipes, delivering leading efficiency and accuracy for building specialized AI agents
 - [Llama Nemotron](https://huggingface.co/collections/nvidia/llama-nemotron-67d92346030a2691293f200b) - a collection of open, production-ready enterprise models from NVIDIA
 - [OpenReasoning-Nemotron](https://huggingface.co/collections/nvidia/openreasoning-nemotron-687730dae0170059860f1f01) - a collection of models from NVIDIA, trained on 5M reasoning traces for math, code and science
