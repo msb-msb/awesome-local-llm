@@ -15,6 +15,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
     - [Multimodal](#multimodal)
     - [Image](#image)
     - [Audio](#audio)
+    - [Safeguards](#safeguards)
     - [Miscellaneous](#miscellaneous)
 - [Tools](#tools)
   - [Models](#models)
