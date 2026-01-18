@@ -149,6 +149,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 - [Qwen-Image](https://huggingface.co/collections/Qwen/qwen-image) - a collection of models for image generation, edit and decomposition from Qwen
 - [Qwen3-VL](https://huggingface.co/collections/Qwen/qwen3-vl-68d2a7c1b8a8afce4ebd2dbe) - a collection of the most powerful vision-language models in the Qwen series to date
+- [GLM-Image](https://huggingface.co/zai-org/GLM-Image) - an image generation model
 - [HunyuanImage-2.1](https://huggingface.co/tencent/HunyuanImage-2.1) - an efficient diffusion model for high-resolution (2K) text-to-image generation​ 
 - [FastVLM](https://huggingface.co/collections/apple/fastvlm-68ac97b9cd5cacefdd04872e) - a collection of VLMs with efficient vision encoding from Apple
 - [MiniCPM-V-4_5](https://huggingface.co/openbmb/MiniCPM-V-4_5) - a GPT-4o Level MLLM for single image, multi image and high-FPS video understanding on your phone
