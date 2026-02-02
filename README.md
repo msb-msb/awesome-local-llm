@@ -124,6 +124,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [EXAONE-4.0](https://huggingface.co/collections/LGAI-EXAONE/exaone-40-686b2e0069800c835ed48375) - a collection of LLMs from LG AI Research, integrating non-reasoning and reasoning modes
 - [ERNIE 4.5](https://huggingface.co/collections/baidu/ernie-45-6861cd4c9be84540645f35c9) - a collection of large-scale multimodal models from Baidu
 - [Seed-OSS](https://huggingface.co/collections/ByteDance-Seed/seed-oss-68a609f4201e788db05b5dcd) - a collection of LLMs developed by ByteDance's Seed Team, designed for powerful long-context, reasoning, agent and general capabilities, and versatile developer-friendly features
+- [Step-3.5-Flash](https://huggingface.co/stepfun-ai/Step-3.5-Flash) - most capable open-source foundation model, engineered to deliver frontier reasoning and agentic capabilities with exceptional efficiency
 
 [Back to Table of Contents](#table-of-contents)
 
