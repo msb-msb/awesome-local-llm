@@ -130,7 +130,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### Coding
 
-- [Qwen3-Coder](https://huggingface.co/collections/Qwen/qwen3-coder-687fc861e53c939e52d52d10) - a collection of the Qwen's most agentic code models to date
+- [Qwen3-Coder-Next](https://huggingface.co/collections/Qwen/qwen3-coder-next) - a collection of Qwen's open-weight language models designed specifically for coding agents and local development
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Devstral 2](https://huggingface.co/collections/mistralai/devstral-2) - a couple of agentic LLMs for software engineering tasks, excelling at using tools to explore codebases, edit multiple files, and power SWE Agents
 - [GLM-4.7](https://huggingface.co/collections/zai-org/glm-47) - a collection of agentic, reasoning and coding (ARC) foundation models
 - [MiniMax-M2.1](https://huggingface.co/MiniMaxAI/MiniMax-M2.1) - a SOTA model for real-world dev & agents
