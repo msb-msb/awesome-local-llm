@@ -112,7 +112,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 
 #### General purpose
 
-- [Qwen3-Next](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d) - a collection of the latest generation Qwen LLMs
+- [Qwen3.5](https://huggingface.co/collections/Qwen/qwen35) - a collection of the latest generation Qwen LLMs
 - <img src="https://img.shields.io/badge/Google-%234285F4?logo=google&logoColor=red" height="17" align="texttop"/> [Gemma 3](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d) - a family of lightweight, state-of-the-art open models from Google, built from the same research and technology used to create the Gemini models
 - <img src="https://img.shields.io/badge/OpenAI-%23412991?logo=openai" height="17" align="texttop"/> [gpt-oss](https://huggingface.co/collections/openai/gpt-oss-68911959590a1634ba11c7a4) - a collection of open-weight models from OpenAI, designed for powerful reasoning, agentic tasks, and versatile developer use cases
 - <img src="https://img.shields.io/badge/Mistral%20AI-%23FA520F?logo=mistralai&logoColor=%23FFFFFF" height="17" align="texttop"/> [Ministral 3](https://huggingface.co/collections/mistralai/ministral-3) - a collection of edge models, with base, instruct and reasoning variants, in 3 different sizes: 3B, 8B and 14B, all with vision capabilities
