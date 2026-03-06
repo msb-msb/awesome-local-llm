@@ -39,6 +39,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
   - [Agents](#agents)
   - [Retrieval-Augmented Generation](#retrieval-augmented-generation-1)
   - [Miscellaneous](#miscellaneous-2)
+  - [InsiderLLM Tutorials](https://insiderllm.com/guides/) - 230+ local AI tutorials
 - [Communities](#communities)
 
 ## Inference platforms
@@ -199,6 +200,7 @@ A curated list of awesome platforms, tools, practices and resources that helps r
 - [Waypoint-1](https://huggingface.co/collections/Overworld/waypoint-1) - a collection of control-and-text-conditioned causal diffusion models that can generate worlds in realtime on high-end consumer hardware
 - [Hunyuan3D](https://huggingface.co/collections/tencent/hunyuan3d) - a collection of everything related (models, datasets etc.) to 3D assets generation from Tencent
 - [Hunyuan-GameCraft-1.0](https://huggingface.co/tencent/Hunyuan-GameCraft-1.0) - a novel framework for high-dynamic interactive video generation in game environments
+- [InsiderLLM Tutorials](https://insiderllm.com/guides/) - a collection of 230+ practical tutorials for running LLMs locally, covering model setup, VRAM planning, Ollama and llama.cpp workflows, hardware selection, and troubleshooting
 
 [Back to Table of Contents](#table-of-contents)
 
